@@ -62,9 +62,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Mihreteab Demeke**
 
-- GitHub: [@githubhandle](https://github.com/mihreteab)
-- Twitter: [@twitterhandle](https://twitter.com/0ef629d0f6ee440)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mihreteab-demeke-46a718140/)
+- GitHub: [@mihreteab](https://github.com/mihreteab)
+- Twitter: [@mihreteabd](https://twitter.com/0ef629d0f6ee440)
+- LinkedIn: [Mihreteab Demeke](https://www.linkedin.com/in/mihreteab-demeke-46a718140/)
 
 ## 🤝 Contributing
 
