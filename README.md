@@ -5,7 +5,7 @@
 
 > This project's purpose is to get familiar with basic version controlling on git and Github in addition to Linters code cleaner. In this project, I try to be familiar with both version controlling and clean code writing with the help of Linter.
 
-![screenshot](./app_screenshot.png)
+![screenshot](app-screenshot.png)
 
 Additional description about the project and its features.
 
